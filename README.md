@@ -2,5 +2,5 @@
 Second project FrontEnd from Danki Code course
 
 This is the second project from FrontEnd course of DankiCode.
-
-In this project I could practice skills in CSS like flexbox and also made basic use of grid layout, in addition to training the use of media queries for a responsive design.
+In this project i could to practice a little more HMTL and 
+CSS skills.
